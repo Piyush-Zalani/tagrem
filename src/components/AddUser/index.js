@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import { Button, Col } from "react-bootstrap";
 import { API, ACCESS_TOKEN, BASE_URL, ADD_USER_FIELDS } from "../../constants";
-import { formNormalization } from "../../utils/index";
+import { formNormalization } from "../../utils";
 import { FieldGroup } from "../index";
 
 class AddUser extends Component {
