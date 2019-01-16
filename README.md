@@ -25,5 +25,6 @@ https://gorest.co.in/public-api/users?_format=json&access-token=QeUtQCgdsA
 AeCdFbhUz1h6-HdVJ30zv8xMYR
 For REST API refer : https://gorest.co.in
 
-To Run use yarn start
+To Run use yarn start.
+
 To create build use yarn build
