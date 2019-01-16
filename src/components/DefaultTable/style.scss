@@ -1,0 +1,27 @@
+.react-bs-table {
+  border: none !important;
+  overflow: auto;
+  table {
+    td {
+      overflow: hidden;
+      white-space: inherit;
+      text-overflow: inherit;
+      word-wrap: break-word;
+      border: none !important;
+    }
+    th {
+      overflow: hidden;
+      white-space: inherit;
+      text-overflow: inherit;
+      word-wrap: break-word;
+      border: none !important;
+    }
+    thead,
+    tbody {
+      tr {
+        background: #fff;
+        color: #000;
+      }
+    }
+  }
+}
